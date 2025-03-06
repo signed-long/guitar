@@ -1,0 +1,78 @@
+INFO
+    Key         - C Major
+    BPM         - 92
+    Example vid - https://www.youtube.com/watch?v=mnr1Rijo6dI
+    
+SCALES
+    A - B - C# - D - E - F# - G#
+    https://muted.io/c-major-scale/
+
+CHORDS 
+    Cmaj7 (C/B)     (I)
+    Am              (vi)
+    F               (VI)
+
+GUITAR TABS
+
+    Chords: Cmaj7 , Am
+
+    e - - - - - - - - - - - - - - - - - - - - - - - - 
+    B - - - - 14 - - 13 - - - - - - - - - - - - - 
+    G - - - - - - - - - - - - 13 - - - - - - - - - -  X2
+    D - - - - - - - - - - - - - - - - 15 - - - - - -
+    A - - - - - - - - - - - - - - - - - - - - - - - - 
+    E - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    e - - - - - - - - - - - - - - - - - - - - - - - - - 
+    B - - - - 13 - - - - - - - - - - - - - - - - - - -
+    G - - - - - - - - 13 - - 11- - 10 - - - - - -  X2
+    D - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    A - - - - - - - - - - - - - - - - - - - - - - - - - -
+    E - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    [Intro / Chorus lead]
+    
+    E|---8-7-----8-7--------7-------7----------|
+    B|-------8-5-----8-5------8-6-5---8-6-5----|
+    G|-----------------------------------------|
+    D|-----------------------------------------|
+    A|-----------------------------------------|
+    E|-----------------------------------------|
+
+    [Chorus]
+    C                 Am
+    I’m still in love
+    F
+    With you baby
+    C                     Am
+    Yes I’m still in love
+    F
+    You drive me crazy
+        C               Am
+    But I’m still in love
+    F            C  C/B
+    Still in love
+    F
+    With you baby
+    
+    [Verse]
+    C           Am      F
+    You are the perfect girl for me
+        C           Am      F
+    And I’m not the perfect boy for you
+        C              Am    F
+    But you still love me      Even if they wouldn’t
+    C                    Am    F
+    like the real me for you
+    
+    [Chorus]
+    [Verse 2]
+    [Chorus]
+    [Verse 3]
+    [Chorus]
+
+
+WARM UP
+    - Spider
+    - C Major Scale (say note names)
+    - Chord changes - 

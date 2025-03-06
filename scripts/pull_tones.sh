@@ -1,0 +1,1 @@
+cp /Users/$(whoami)/Documents/Native\ Instruments/User\ Content/Guitar\ Rig\ 6/Rack\ Presets/* ../guitar-tones/
