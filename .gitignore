@@ -1,1 +1,2 @@
-.DS_Store
+# ignore all .DS_Store files in every dir
+**/.DS_Store
